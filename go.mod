@@ -8,7 +8,7 @@ require (
 	github.com/goreleaser/goreleaser v0.134.0 // indirect
 	github.com/jhump/protoreflect v1.8.2
 	github.com/nishanths/predeclared v0.0.0-20200524104333-86fad755b4d3 // indirect
-	golang.org/x/net v0.0.0-20200625001655-4c5254603344
+	golang.org/x/net v0.0.0-20210805182204-aaa1db679c0d
 	google.golang.org/api v0.29.0 // indirect
 	google.golang.org/grpc v1.37.0
 	google.golang.org/protobuf v1.25.1-0.20200805231151-a709e31e5d12
